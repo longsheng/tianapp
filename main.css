@@ -1,0 +1,9 @@
+.btn-group>.btn-default {
+	color: #777;
+	background-color: #fff;
+	border-color: fff;
+}
+
+.x-card.btn-group .btn.active {
+	color: #4d8;
+}

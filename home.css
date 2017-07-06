@@ -1,0 +1,54 @@
+/*标题栏的样式*/
+.x-titlebar {
+	background-color: #4b8;
+}
+
+.x-titlebar-left {
+	padding-left: 15px;
+	flex: 2 0 0px;
+}
+
+.x-titlebar-title {
+	flex: 0 1 0px;
+}
+
+.x-titlebar-right {
+	padding-right: 15px;
+	flex: 1 0 0px;
+}
+
+.x-titlebar .x-titlebar-left  .cq26fu2 {
+	color: #fff;
+}
+
+.x-titlebar .x-titlebar-right>i {
+	margin-right: 15px;
+}
+
+.x-panel .x-panel-content {
+	background-color: #f5f5f5;
+}
+
+.x-card.btn-group {
+	background-color: #ffffff;
+}
+
+.x-titlebar .x-titlebar-left>label:FIRST-CHILD {
+	padding-right: 20px;
+}
+/*上部分三个按钮的样式*/
+.btn-group>.btn {
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #E0E0E0;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #E0E0E0;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #EAEAEA;
+}
+
+.btn-group>.btn:last-child {
+	border-right-stype: none;
+}

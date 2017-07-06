@@ -1,0 +1,50 @@
+.dikuai {
+	display: inline-block;
+	height: 54px;
+	width: 86px;
+	border: 1px;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 5px;
+	margin: 5px;
+	color: #909090;
+}
+
+.dikuai>label {
+	display: inline-block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	width: 100%;
+	text-align: center;
+	font-size: xx-small;
+}
+
+.dikuai.select {
+	background-color: #CCFFCC;
+	color: #008000;
+	-moz-box-shadow: 2px 2px 5px #333333;
+	-webkit-box-shadow: 2px 2px 5px #333333;
+	box-shadow: 2px 2px 5px #333333;
+}
+
+.x-dialog.x-dialog-normal .x-dialog-body {
+	padding: 0px;
+}
+
+.angleBox {
+	width: 50px;
+	float: left;
+	position: relative;
+	margin: 12px;
+}
+
+.angle {
+	position: absolute;
+	right: -10px;
+	top: -7px;
+	background-color: #c71c22;
+}
+
+.x-list-template li {
+	display: inline;
+}

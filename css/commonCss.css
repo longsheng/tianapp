@@ -1,0 +1,43 @@
+.font-small {
+	font-size: small;
+}
+
+.font-smaller {
+	font-size: smaller;
+}
+.font-large{
+	font-size: large;
+}
+.font-xx-large {
+	font-size: xx-large;
+}
+
+.p0 {
+	padding: 0px 0px 0px 0px;
+}
+
+.m0 {
+	margin: 0px 0px 0px 0px;
+}
+
+.pm0 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.x-row {
+	font-size: 12px;
+}
+.x-col {
+	align-self: center;
+}
+label {
+	margin-bottom: 0px;
+}
+.bgcolor-fa{
+	background-color: #fafafa;
+}
+/*标题栏的样式*/
+.x-titlebar {
+	background-color: #4b8;
+}
