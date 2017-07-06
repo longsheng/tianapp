@@ -9,6 +9,6 @@ define(function(require){
 	Model.prototype.button4Click = function(event){
 		this.getParent().comp("ownContents").to("ownContent");
 	};
-
+//1111
 	return Model;
 });
